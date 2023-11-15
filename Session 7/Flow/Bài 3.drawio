@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" modified="2023-11-15T19:03:58.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hu2j0p3cQKsgL8JkY-28" version="22.1.2" type="onedrive">
+  <diagram name="Trang-1" id="DkSM7zriaWkZI1T6OxLR">
+    <mxGraphModel dx="1248" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IcVwSrqsvjOElMi_0bll-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcVwSrqsvjOElMi_0bll-1" target="IcVwSrqsvjOElMi_0bll-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcVwSrqsvjOElMi_0bll-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-3" value="sent_month&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;deposits,annual_interest_rate" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="246.25" y="170" width="227.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcVwSrqsvjOElMi_0bll-6" target="IcVwSrqsvjOElMi_0bll-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-6" value="sent_month&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;deposits,annual_interest_rate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="280" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcVwSrqsvjOElMi_0bll-8" target="IcVwSrqsvjOElMi_0bll-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-8" value="&lt;div&gt;month,profit,money,&lt;/div&gt;&lt;div&gt;&amp;nbsp;principal&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcVwSrqsvjOElMi_0bll-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-10" value="principal=deposits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcVwSrqsvjOElMi_0bll-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-14" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IcVwSrqsvjOElMi_0bll-13">
+          <mxGeometry x="-0.0733" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcVwSrqsvjOElMi_0bll-12" target="IcVwSrqsvjOElMi_0bll-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="650" />
+              <mxPoint x="570" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-23" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IcVwSrqsvjOElMi_0bll-17">
+          <mxGeometry x="-0.5559" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-12" value="month&amp;lt;sent_month" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="610" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcVwSrqsvjOElMi_0bll-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-15" value="profit=principal*annual_interest_rate/100/12;&#xa;        money=principal+profit;&#xa;        principal=money;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="760" width="325" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IcVwSrqsvjOElMi_0bll-19" target="IcVwSrqsvjOElMi_0bll-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="156" y="910" />
+              <mxPoint x="156" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcVwSrqsvjOElMi_0bll-19" target="IcVwSrqsvjOElMi_0bll-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-19" value="Tháng,Tiền gửi, Tiền lãi,So tien nhan duoc sau thoi gian gui" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="176.25" y="880" width="367.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IcVwSrqsvjOElMi_0bll-22" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
